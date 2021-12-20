@@ -1,4 +1,4 @@
-Hola! soy Luca Agüero 👋 <br>
+# Hola! soy Luca Agüero 👋 
 Estudiante de Ing. en Sistemas de Información.<br>
 Amante de la programación, siempre con ganas de seguir aprendiendo y mejorando 🙌💪<br>
 En mis repositorios podrás ver mis diferentes proyectos.
