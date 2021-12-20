@@ -1,7 +1,13 @@
 # Hola! soy Luca Agüero 👋 
-Estudiante de Ing. en Sistemas de Información.<br>
-Amante de la programación, siempre con ganas de seguir aprendiendo y mejorando 🙌💪<br>
-En mis repositorios podrás ver mis diferentes proyectos.
+
+👨‍💻 Estudiante de Ing. en Sistemas de Información en la Universidad Nacional de Villa Mercedes.
+
+🚀 Actualmente realizando curso en [CourseIT](https://courseit.io/)
+
+🌐 [Portfolio Personal](https://agueroluca.com.ar/)
+
+Amante de la programación, siempre con ganas de seguir aprendiendo y mejorando 🙌💪
+En mis repositorios podrás ver mis diferentes proyectos personales.
 
 
 
