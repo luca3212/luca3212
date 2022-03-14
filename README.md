@@ -2,7 +2,7 @@
 
 👨‍💻 Estudiante de Ing. en Sistemas de Información en la Universidad Nacional de Villa Mercedes.
 
-🚀 Actualmente realizando curso en [CourseIT](https://courseit.io/)
+🚀 Actualmente realizando curso en [EducaciónIT](https://www.educacionit.com/)
 
 🌐 [Portfolio Personal](https://agueroluca.com.ar/)
 
