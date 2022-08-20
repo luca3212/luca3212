@@ -2,7 +2,7 @@
 
 👨‍💻 Estudiante de Ing. en Sistemas de Información en la Universidad Nacional de Villa Mercedes.
 
-🚀 Actualmente realizando curso en [EducaciónIT](https://www.educacionit.com/)
+🚀 Actualmente realizando los cursos de Digitalers-Telecom y ONE - Oracle Next Education brindado por Oracle y Alura Latam
 
 🌐 [Portfolio Personal](https://agueroluca.com.ar/)
 
