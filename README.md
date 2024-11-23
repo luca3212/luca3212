@@ -2,9 +2,9 @@
 
 👨‍💻 Estudiante de Ing. en Sistemas de Información en la Universidad Nacional de Villa Mercedes.
 
-🚀 Actualmente realizando el cursos 'ONE - Oracle Next Education' brindado por Oracle y Alura Latam.
+💻 Desarrollador Front-End en [Kaizen Software](https://kaizensoftware.com.ar/)
 
-🌐 [Portfolio Personal](https://agueroluca.com.ar/)
+🌐 [Portfolio Personal](https://www.agueroluca.site/)
 
 Amante de la programación, siempre con ganas de seguir aprendiendo y mejorando 🙌💪
 En mis repositorios podrás ver mis diferentes proyectos personales.
